@@ -9,6 +9,14 @@ Asmita Pramanik (asmitap2)
 
 Pranav Nagarajan (pranavn6)
 
+## Branches
+
+[Code](https://github.com/alishac4/ECE445_BioSteady/tree/Code)
+
+[PCB Boards](https://github.com/alishac4/ECE445_BioSteady/tree/PCB)
+
+[Notebooks](https://github.com/alishac4/ECE445_BioSteady/tree/Notebook)
+
 
 ## Results
 
