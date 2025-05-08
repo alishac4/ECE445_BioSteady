@@ -1,5 +1,22 @@
 # Alisha Worklog
 
+# Table of Contents
+- [2/12/25 : Research for Proposal](#21225--research-for-proposal)
+- [2/18/25 : GSR sensor schematic brainstroming](#21825--gsr-sensor-schematic-brainstroming)
+- [2/24/25 : MAX30102 and Microcontroller brainstorming](#22425--max30102-and-microcontroller-brainstorming)
+- [2/27/25 : Initial Assembly for Schematic Design](#22725--initial-assembly-for-schematic-design)
+- [3/7/25 : Finishing First PCB Design for Second Round PCB Order](#3725--finishing-first-pcb-design-for-second-round-pcb-order)
+- [3/12/25 : Changing Schematic after Breadboard Demonstration](#31225--changing-schematic-after-breadboard-demonstration)
+- [3/31/25 : Finishing Third PCB Design](#33125--finishing-third-pcb-design)
+- [4/7/25 : Assembling and Debugging Second Round PCB](#4725--assembling-and-debugging-second-round-pcb)
+- [4/12/25 : Assembling and Debugging Third Round PCB](#41225--assembling-and-debugging-third-round-pcb)
+- [4/13/25 : Assembling and Debugging Heart Rate sensor on PCB](#41325--assembling-and-debugging-heart-rate-sensor-on-pcb)
+- [4/15/25 : Debugging the Heart Rate Sensor on PCB with breakout board](#41525--debugging-the-heart-rate-sensor-on-pcb-with-breakout-board)
+- [4/20/25 : Assembling and Debugging the GSR sensor](#42025--assembling-and-debugging-the-gsr-sensor)
+- [4/23/25 : New Approach to Heart Rate Sensor](#42325--new-approach-to-heart-rate-sensor)
+- [4/26/25 : Testing Control Subsystem](#42625--testing-control-subsystem)
+- [4/28/25 : Assembling Final PCB Board](#42825--assembling-final-pcb-board)
+
 ## 2/12/25 : Research for Proposal
 
 Objective : Find Components for Proposal Components
@@ -28,7 +45,7 @@ Now I am looking at different schematic designs for the MAX30102 chip. This sens
 
 I looked on KiCAD and the MAX30102+ is an avaliable part so I will just follow this recommended setup for the schematic design
 
-## 2/27/25 : Inital Assembly for Schematic Design
+## 2/27/25 : Initial Assembly for Schematic Design
 
 Objective : Start schematic design
 
