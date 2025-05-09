@@ -99,7 +99,8 @@ Incorporated the MAX30102 heart rate sensor into the circuit alongside the STM32
 
 ## Week 11: 03/30 – 04/05 Firebase Integration
 Worked with Pranav to integrate the sensor readings with the software application. Wrote Python script to parse sensor data, and send that information to 
-Firebase store for live collection of data. 
+Firebase store for live collection of data.
+
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/47dd1c99-2f72-45b6-b123-ba43531e0dd0" />
 
 The MAX30102 outputs raw IR values from its photodetector into a FIFO register. These values fluctuate with the user’s pulse as blood volume changes under the skin. 
